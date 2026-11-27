@@ -10,7 +10,7 @@ Kısa Açıklama: Windows Forms üzerinde zamanlayıcı (`Timer`), GDI+ çizimle
 ## Kurulum ve Çalıştırma Adımları
 
 1. Bu depoyu yerel bilgisayarınıza klonlayın:
-   `git clone https://github.com/250542008-sanat/NTP-FlappyBird.git`
+   `git clone https://github.com/250542008-sanat/YMH219-FlappyBird.git`
 2. Proje klasörüne girin ve `Flappy Bird.csproj` dosyasını Visual Studio ile açın.
 3. Üst menüden **Başlat (Start)** butonuna basarak veya `F5` tuşu ile oyunu derleyip çalıştırın.
 4. `Space`, `Yukarı Ok` tuşuna basarak veya fare sol tuşuna tıklayarak kuşu zıplatın ve boruların arasından geçin.
